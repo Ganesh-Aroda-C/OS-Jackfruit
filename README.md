@@ -1,5 +1,15 @@
 # Multi-Container Runtime
 
+
+## 👤 Team Information
+
+- Name: Ganesh Aroda C
+- SRN: PES1UG24AM102
+- Name: Divyansh badaya
+- SRN: PES1UG24AM094
+
+---
+ 
 A lightweight Linux container runtime in C with a long-running supervisor and a kernel-space memory monitor.
 
 Read [`project-guide.md`](project-guide.md) for the full project specification.
